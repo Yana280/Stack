@@ -10,9 +10,13 @@ The display() function checks if the stack is empty or not. If the stack is not 
 ### Algorithm
 
 Start
+
 Set top = -1, stack[100]
+
 Read the value of n, the size of the stack
+
 Print "STACK OPERATIONS USING ARRAY"
+
 Print "1.PUSH 2.POP 3.DISPLAY 4.EXIT"
 Repeat until the user chooses to exit:
 7. Read the value of choice
